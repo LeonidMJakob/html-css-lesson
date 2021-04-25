@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.box {
+    color: blue;
+    border: 2px solid red;
+    padding-left: 5px;
+}
+
+#highlight {
+    color: rgb(240, 26, 62);
+    background-color: blue;
+}
+
+.box + p{
+
+    color: blueviolet;
+}
+span {
+    color: pink;
+}
